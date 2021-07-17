@@ -1,4 +1,4 @@
-# mighty_ui_kit
+# UI KIT Flutter
 
 A new Flutter application.
 
